@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🎓 known
-  - identifier: 🎓 known
-  - variable: 🎓 known
-  - constant: 🎓 known
-  - scalar: 👂 heard 
-  - literal: 🎓 known
-  - expression: 👂 heard 
-  - heap: 👂 heard 
-  - function: 👂 heard 
-  - procedure: 👂 heard 
-  - method
-  - class: 👂 heard 
+  - value: 🙋 explained 
+  - identifier: 🙋 explained 
+  - variable: 🙋 explained 
+  - constant: 🙋 explained 
+  - scalar: 🙋 explained 
+  - literal: 🙋 explained 
+  - expression: 🙋 explained 
+  - heap: 🎓 known
+  - function: 🙋 explained 
+  - procedure: 🎓 known
+  - method: 🖐️ used
+  - class: 🖐️ used
   - prototype
-  - event
-  - type: 👂 heard 
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops: 👂 heard 
-  - assignment
+  - event: 👂 heard
+  - type: 🙋 explained 
+  - primitive types: 🙋 explained 
+  - reference types: 🖐️ used
+  - flag: 🎓 known
+  - lexical scope: 👂 heard
+  - code block: 🎓 known
+  - conditions: 👂 heard
+  - loops: 🖐️ used
+  - assignment: 🎓 known
   - regular expression
   - interface
   - contract
   - module
-  - call stack: 👂 heard 
+  - call stack: 👂 heard
 - Functions
-  - signature
-  - argument: 👂 heard 
-  - parameter: 👂 heard 
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -40,8 +40,8 @@
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion: 👂 heard
+  - callback: 👂 heard
   - listener
   - compose
   - pipe
@@ -54,21 +54,21 @@
   - coroutine
 - Data structures
   - array: 🎓 known
-  - structure
+  - structure: 🎓 known
   - record
   - enum
   - instance
-  - object
-  - class
+  - object: 🎓 known
+  - class: 🎓 known
   - collection
-  - set
+  - set: 👂 heard
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
   - queue
-  - stack: 👂 heard 
+  - stack: 🎓 known
   - deque
   - tree
   - graph
@@ -78,29 +78,29 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler: 👂 heard 
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
-  - debugger
+  - debugger: 👂 heard
   - garbage collection
-  - refactoring: 👂 heard 
-  - code review: 👂 heard 
+  - refactoring: 🎓 known
+  - code review: 👂 heard
   - antipatterns
-  - paradigm
-  - algorithm: 👂 heard 
-  - magic numbers
-  - hardcode: 👂 heard 
+  - paradigm: 👂 heard
+  - algorithm: 👂 heard
+  - magic numbers: 👂 heard
+  - hardcode: 👂 heard
   - complexity
   - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
+  - spaghetti: 👂 heard
+  - silver bullet: 👂 heard
+  - not invented here: 👂 heard
+  - dead code: 👂 heard
+  - unreachable code: 👂 heard
+  - duplicate code: 👂 heard
   - exception
   - return early
   - unittest
-  - git
-  - github: 👂 heard 
+  - git: 🎓 known
+  - github: 🎓 known
