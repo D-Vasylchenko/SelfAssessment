@@ -62,7 +62,7 @@
 - Functions
   - function declaration
   - function expression
-  - return
+  - return: 🎓 known
   - default parameters
   - functional object
 - Data structures
