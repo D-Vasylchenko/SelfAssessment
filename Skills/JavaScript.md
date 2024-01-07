@@ -41,16 +41,16 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
+  - if: 🎓 known
+  - while: 🎓 known
   - do..while
-  - for
+  - for: 🎓 known
   - for..in
   - for..of
   - for await
   - throw
-  - break
-  - continue
+  - break: 🎓 known
+  - continue: 🎓 known
   - import
   - export
   - label
@@ -62,18 +62,18 @@
 - Functions
   - function declaration
   - function expression
-  - return
+  - return: 🎓 known
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 👂 heard
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
   - undefined
-  - null
+  - null: 👂 heard
   - Proxy
   - weak collections
   - timers
