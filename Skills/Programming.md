@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm: 🎓 known 
-  - Syntax:🎓 known 
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
   - Abstraction
-  - Paradigm: 👂 heard 
-  - Programm:🖐️ used 
-  - Programming paradigm:👂 heard 
-  - Programming language:🖐️ used 
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
+  - Programming language: 🖐️ used
   - Contract
-  - Module:👂 heard 
-  - Library:👂 heard 
+  - Module: 👂 heard
+  - Library: 👂 heard
   - Package
-  - Component: 👂 heard 
+  - Component: 👂 heard
   - Framework
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering:👂 heard
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
@@ -32,31 +32,31 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value:🙋 explained
-  - Identifier:🖐️ used
-  - Variable:🙋 explained 
-  - Constant:🙋 explained
-  - Scalar:🖐️ used 
-  - Literal:🖐️ used 
-  - Expression:🖐️ used 
+  - Value: 🙋 explained
+  - Identifier: 🖐️ used
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function:🖐️ used 
-  - Procedure:👂 heard 
-  - Method:👂 heard 
-  - Class:🖐️ used 
-  - Prototype:👂 heard
-  - Event: 👂 heard 
-  - Type: 🖐️ used 
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 👂 heard
+  - Class: 🖐️ used
+  - Prototype: 👂 heard
+  - Event: 👂 heard
+  - Type: 🖐️ used
   - Flag
   - Lexical scope
   - Code block
-  - Conditions: 🖐️ used 
-  - Loops: 🖐️ used 
-  - Assignment: 🖐️ used 
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
-  - Interface: 👂 heard 
+  - Interface: 👂 heard
   - Namespaces
-  - Call stack: 👂 heard 
+  - Call stack: 👂 heard
   - Naming conventions
   - Coding conventions
   - Camel case: 👂 heard
@@ -66,8 +66,8 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types: 👂 heard 
-  - Reference types: 👂 heard 
+  - Primitive types: 👂 heard
+  - Reference types: 👂 heard
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument: 🖐️ used 
-  - Parameter: 🖐️ used 
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array: 🖐️ used 
-  - Structure: 🖐️ used 
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
-  - Object: 🖐️ used 
+  - Object: 🖐️ used
   - Collection
   - Set
   - Hash table
@@ -118,12 +118,12 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue : 👂 heard 
-  - Stack: 👂 heard 
+  - Queue: 👂 heard
+  - Stack: 👂 heard
   - Deque
   - Tree
-  - Graph: 👂 heard 
-  - Iterator: 🖐️ used 
+  - Graph: 👂 heard
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
